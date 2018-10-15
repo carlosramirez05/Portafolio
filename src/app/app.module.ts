@@ -19,7 +19,7 @@ import { appRoutingModule } from './app-routing.module';
     ItemComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
     appRoutingModule
   ],
   providers: [],
